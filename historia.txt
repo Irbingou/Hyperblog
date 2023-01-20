@@ -1,6 +1,6 @@
 Esta es la historia de Irving 
 
-Curso de git en platzi :)
+Curso de git en platzi, repasando git :)
 
 
 
