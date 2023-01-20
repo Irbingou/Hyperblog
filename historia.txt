@@ -1,3 +1,7 @@
 Esta es la historia de Irving 
 
 Curso de git en platzi :)
+
+
+
+Irving tiene 30 años y vive en MX.
