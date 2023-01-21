@@ -1,5 +1,4 @@
 Esta es la historia de Irving 
 
-Curso de git en platzi, repasando git :)
-Irving 30 años, estatura 1.73
-Hoy hablaremos de su vida laboral y obra maestra
+Curso de git en platzi :)
+Mañana nos enfocaremos en su vida laboral
