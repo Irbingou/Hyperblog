@@ -3,4 +3,18 @@ body
     text-align: center;
     font-family: arial;
     color: deeppink;
+    text-size-adjust: initial;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: leff;
+    border: 1px solid rgb(222, 14, 14);
+    margin: 0 auto;
+
+}
+#container h1
+{
+    font-size:20px;
 }
