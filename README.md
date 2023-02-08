@@ -7,6 +7,7 @@ En este curso se ve:
 * El flujo de trabajo en Github
 * Buenas prácticas
 * Creado por el increible Platzi team
+* Incluye algunos ejemplos
 
 Como recordatorio.
 >Eh notado que tuve algunos issues cuando trabajé en la ADIP pero los errores son buenos para aprender y mejorarlo :)
